@@ -1,0 +1,45 @@
+C:\Users\PangPond\Desktop\New Group Project\bin\Debug\net6.0\New Group Project.exe
+C:\Users\PangPond\Desktop\New Group Project\bin\Debug\net6.0\New Group Project.deps.json
+C:\Users\PangPond\Desktop\New Group Project\bin\Debug\net6.0\New Group Project.runtimeconfig.json
+C:\Users\PangPond\Desktop\New Group Project\bin\Debug\net6.0\New Group Project.dll
+C:\Users\PangPond\Desktop\New Group Project\bin\Debug\net6.0\ref\New Group Project.dll
+C:\Users\PangPond\Desktop\New Group Project\bin\Debug\net6.0\New Group Project.pdb
+C:\Users\PangPond\Desktop\New Group Project\obj\Debug\net6.0\New Group Project.csproj.AssemblyReference.cache
+C:\Users\PangPond\Desktop\New Group Project\obj\Debug\net6.0\New Group Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PangPond\Desktop\New Group Project\obj\Debug\net6.0\New Group Project.AssemblyInfoInputs.cache
+C:\Users\PangPond\Desktop\New Group Project\obj\Debug\net6.0\New Group Project.AssemblyInfo.cs
+C:\Users\PangPond\Desktop\New Group Project\obj\Debug\net6.0\New Group Project.csproj.CoreCompileInputs.cache
+C:\Users\PangPond\Desktop\New Group Project\obj\Debug\net6.0\New Group Project.dll
+C:\Users\PangPond\Desktop\New Group Project\obj\Debug\net6.0\ref\New Group Project.dll
+C:\Users\PangPond\Desktop\New Group Project\obj\Debug\net6.0\New Group Project.pdb
+C:\Users\PangPond\Desktop\New Group Project\obj\Debug\net6.0\New Group Project.genruntimeconfig.cache
+C:\Users\PangPond\Desktop\Final_program\New Group Project\bin\Debug\net6.0\New Group Project.exe
+C:\Users\PangPond\Desktop\Final_program\New Group Project\bin\Debug\net6.0\New Group Project.deps.json
+C:\Users\PangPond\Desktop\Final_program\New Group Project\bin\Debug\net6.0\New Group Project.runtimeconfig.json
+C:\Users\PangPond\Desktop\Final_program\New Group Project\bin\Debug\net6.0\New Group Project.dll
+C:\Users\PangPond\Desktop\Final_program\New Group Project\bin\Debug\net6.0\ref\New Group Project.dll
+C:\Users\PangPond\Desktop\Final_program\New Group Project\bin\Debug\net6.0\New Group Project.pdb
+C:\Users\PangPond\Desktop\Final_program\New Group Project\obj\Debug\net6.0\New Group Project.csproj.AssemblyReference.cache
+C:\Users\PangPond\Desktop\Final_program\New Group Project\obj\Debug\net6.0\New Group Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PangPond\Desktop\Final_program\New Group Project\obj\Debug\net6.0\New Group Project.AssemblyInfoInputs.cache
+C:\Users\PangPond\Desktop\Final_program\New Group Project\obj\Debug\net6.0\New Group Project.AssemblyInfo.cs
+C:\Users\PangPond\Desktop\Final_program\New Group Project\obj\Debug\net6.0\New Group Project.csproj.CoreCompileInputs.cache
+C:\Users\PangPond\Desktop\Final_program\New Group Project\obj\Debug\net6.0\New Group Project.dll
+C:\Users\PangPond\Desktop\Final_program\New Group Project\obj\Debug\net6.0\ref\New Group Project.dll
+C:\Users\PangPond\Desktop\Final_program\New Group Project\obj\Debug\net6.0\New Group Project.pdb
+C:\Users\PangPond\Desktop\Final_program\New Group Project\obj\Debug\net6.0\New Group Project.genruntimeconfig.cache
+C:\Users\PangPond\Desktop\Final_program\Group project\bin\Debug\net6.0\New Group Project.exe
+C:\Users\PangPond\Desktop\Final_program\Group project\bin\Debug\net6.0\New Group Project.deps.json
+C:\Users\PangPond\Desktop\Final_program\Group project\bin\Debug\net6.0\New Group Project.runtimeconfig.json
+C:\Users\PangPond\Desktop\Final_program\Group project\bin\Debug\net6.0\New Group Project.dll
+C:\Users\PangPond\Desktop\Final_program\Group project\bin\Debug\net6.0\ref\New Group Project.dll
+C:\Users\PangPond\Desktop\Final_program\Group project\bin\Debug\net6.0\New Group Project.pdb
+C:\Users\PangPond\Desktop\Final_program\Group project\obj\Debug\net6.0\New Group Project.csproj.AssemblyReference.cache
+C:\Users\PangPond\Desktop\Final_program\Group project\obj\Debug\net6.0\New Group Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PangPond\Desktop\Final_program\Group project\obj\Debug\net6.0\New Group Project.AssemblyInfoInputs.cache
+C:\Users\PangPond\Desktop\Final_program\Group project\obj\Debug\net6.0\New Group Project.AssemblyInfo.cs
+C:\Users\PangPond\Desktop\Final_program\Group project\obj\Debug\net6.0\New Group Project.csproj.CoreCompileInputs.cache
+C:\Users\PangPond\Desktop\Final_program\Group project\obj\Debug\net6.0\New Group Project.dll
+C:\Users\PangPond\Desktop\Final_program\Group project\obj\Debug\net6.0\ref\New Group Project.dll
+C:\Users\PangPond\Desktop\Final_program\Group project\obj\Debug\net6.0\New Group Project.pdb
+C:\Users\PangPond\Desktop\Final_program\Group project\obj\Debug\net6.0\New Group Project.genruntimeconfig.cache
